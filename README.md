@@ -9,6 +9,11 @@ Com o EsocialClean, o usuário pode acessar o site do eSocial de forma mais prá
 ## Detalhe
 A extensão atua limpando dados de sessão específicos do eSocial, tornando o acesso mais ágil e sem interrupções.
 
+## Obs
+node copy-assets.js
+para fazer o build de cada navegador
+
+
 Ajuda no acesso ao ambiente Esocial.
 Adicione fixamente na barra de extensões e quando quiser acessar o Esocial Nacional Click no Icone, Será liberado o login para Esocial Normalmente.
 
