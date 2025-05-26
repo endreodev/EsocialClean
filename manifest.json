@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "eSocial Cleam",
+  "version": "1.0",
+  "description": "Limpa cookies do eSocial e redireciona para a pagina de login",
+  "permissions": [
+    "cookies"
+  ],
+  "action": {
+    "default_icon": "icon.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
