@@ -1,5 +1,14 @@
 ﻿# EsocialClean
 
+## Resumo
+Esta extensão facilita o acesso ao site do eSocial, eliminando a necessidade de encerrar o navegador ou abrir abas anônimas.
+
+## Descrição
+Com o EsocialClean, o usuário pode acessar o site do eSocial de forma mais prática e eficiente, sem precisar realizar procedimentos manuais como fechar o navegador ou utilizar o modo anônimo para resolver problemas de acesso.
+
+## Detalhe
+A extensão atua limpando dados de sessão específicos do eSocial, tornando o acesso mais ágil e sem interrupções.
+
 Ajuda no acesso ao ambiente Esocial.
 Adicione fixamente na barra de extensões e quando quiser acessar o Esocial Nacional Click no Icone, Será liberado o login para Esocial Normalmente.
 
@@ -13,5 +22,9 @@ Tem alguma melhoria ou quer contribir com o projeto ?
 Faça um fork e realize um Pool Request 
 
 Doações para o projeto 
-Pix 65981719837
+> Pix 65981719837
 
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
