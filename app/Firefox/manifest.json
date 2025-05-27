@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "eSocial Clean",
+  "version": "2.1",
+  "description": "Limpa cookies do eSocial e redireciona para a página de login",
+  "permissions": [
+    "cookies",
+    "tabs",
+    "https://*.esocial.gov.br/*",
+    "https://login.esocial.gov.br/*"
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{f72f27a9-3e6c-46eb-8306-b92c9547b0c9}",
+      "strict_min_version": "79.0"
+    }
+  },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Limpar eSocial"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "48": "icon-48.png",
+    "96": "icon-48.png"
+  }
+}
+
